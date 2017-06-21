@@ -1,0 +1,54 @@
+https://azure.microsoft.com/en-us/services/cognitive-services/speech/
+
+http://www.c-sharpcorner.com/article/creating-a-simple-bot-application-using-microsoft-bot-framew/
+
+https://github.com/Microsoft/BotBuilder-Samples/blob/master/Node/intelligence-SpeechToText/app.js#L65
+
+
+
+https://www.youtube.com/watch?v=MJUJ4wbFm_A ----------------For Git
+
+https://www.youtube.com/watch?v=sDyG8z5Q-m4&index=4&list=PL_21SKFfAQ9Bz3ArUUhW-RXeH2CdLeX_x
+
+
+
+https://circles.accenture.com/B357B77E-E53C-4EB0-A1E5-24154E104A80?tab=get%20ai%20smart
+
+
+
+665ee9c3-5790-4051-84b3-c4bdfc3a524a---------APPID
+yvj8jZnYunA1coSf8KyuV4r       ------PWD
+
+1b2552b8-c60f-494a-b4ff-ce3e7421d951----------LUIS APP ID
+-------LUIS URL-------------
+https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/1b2552b8-c60f-494a-b4ff-ce3e7421d951?subscription-key=9d6fcd2dd5cd4cd68e684e7a4838e4a4&verbose=true&timezoneOffset=0&q=
+
+-------LUIS URL-------------
+
+
+
+tts.js demo ------search in google
+
+
+9:48 AM, Wednesday, 21 June 2017
+
+
+
+Links given by Raji
+
+
+https://blog.powerupcloud.com/building-bots-using-microsoft-bot-framework-and-nodejs-604047ca15c 
+ 
+https://blog.powerupcloud.com/building-bots-using-microsoft-bot-framework-and-nodejs-604047ca15c 
+ 
+https://help.github.com/articles/create-a-repo/# 
+ 
+https://azure.microsoft.com/en-us/free/ 
+ 
+https://docs.microsoft.com/en-us/bot-framework/nodejs/bot-builder-nodejs-dialog-prompt 
+ 
+https://github.com/Microsoft/BotBuilder-Samples/tree/master/Node/intelligence-SpeechToText 
+
+https://stackoverflow.com/questions/15653145/using-google-text-to-speech-in-javascript
+
+https://github.com/marak/say.js/

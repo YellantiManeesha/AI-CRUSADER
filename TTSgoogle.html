@@ -1,0 +1,10 @@
+<button onclick="speak()">Speak</button>
+<input type="hidden" value="en-US" id="languageOptions">
+<script>
+function speak(){
+var solution="I am fine";
+var audio = new Audio();
+audio.src ='http://translate.google.com/translate_tts?tl=en&q='+solution+'&client=tw-ob';
+audio.play();
+}
+</script>
